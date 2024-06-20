@@ -1,0 +1,11 @@
+Task start: 1 ms, Task end: 5 ms, Pattern: Star, Size: 2
+Task start: 8 ms, Task end: 17 ms, Pattern: Star, Size: 3
+Task start: 20 ms, Task end: 24 ms, Pattern: Star, Size: 2
+Task start: 30 ms, Task end: 55 ms, Pattern: Alphabet, Size: 5
+Task start: 60 ms, Task end: 109 ms, Pattern: Star, Size: 7
+Task start: 115 ms, Task end: 131 ms, Pattern: Alphabet, Size: 4
+Task start: 165 ms, Task end: 181 ms, Pattern: Alphabet, Size: 4
+Task start: 198 ms, Task end: 207 ms, Pattern: Alphabet, Size: 3
+Task start: 230 ms, Task end: 294 ms, Pattern: Alphabet, Size: 8
+Task start: 316 ms, Task end: 320 ms, Pattern: Alphabet, Size: 2
+Task start: 343 ms, Task end: 379 ms, Pattern: Star, Size: 6

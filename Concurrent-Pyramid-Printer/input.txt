@@ -1,0 +1,11 @@
+1	Star	2   
+8	Star	3
+20	Star	2
+30	Alphabet	5
+60	Star	7
+115	Alphabet	4
+165	Alphabet	4
+198	Alphabet	3
+230	Alphabet	8
+316	Alphabet	2
+343	Star	6

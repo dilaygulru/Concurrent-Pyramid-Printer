@@ -1,0 +1,14 @@
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gulru\Desktop\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\gulru\Documents\Dilay\okul\PRINCIPLES OF PROGRAMMING LANGUAGES\ödev2\deneme\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
